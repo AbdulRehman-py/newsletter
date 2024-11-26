@@ -49,7 +49,7 @@
 
 @layer bodyimg {
   body {
-    background-image: url('illustration-sign-up-desktop.svg');
+    background-image: url('/assets/images/illustration-sign-up-desktop.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
