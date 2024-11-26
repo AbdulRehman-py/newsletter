@@ -49,7 +49,7 @@
 
 @layer bodyimg {
   body {
-    background-image: url(AbdulRehman-py/newsletter/assets/images/illustration-sign-up-desktop.svg);
+    background-image: url('https://th.bing.com/th/id/OIP.XXrHR1VWlfF-tUrcW7taDwHaE8?rs=1&pid=ImgDetMain');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@
   }
 
   .img-div {
-    background-image: url(AbdulRehman-py/newsletter/assets/images/illustration-sign-up-desktop.svg);
+    background-image: url('../assets/images/illustration-sign-up-desktop.svg');
     background-size: contain;
     background-position: right;
     background-repeat: no-repeat;
